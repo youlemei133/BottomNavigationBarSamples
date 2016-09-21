@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorInActive">#7FFFD4</color>
+    <color name="colorBarBg">#FFA07A</color>
+
+    <color name="colorBike">#D8BFD8</color>
+    <color name="colorUnBike">#EE82EE</color>
+    <color name="colorRun">#BA55D3</color>
+    <color name="colorUnRun">#8A2BE2</color>
+    <color name="colorBus">#B0C4DE</color>
+    <color name="colorUnBus">#00BFFF</color>
+</resources>
